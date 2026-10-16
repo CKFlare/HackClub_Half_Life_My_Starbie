@@ -20,3 +20,6 @@ My starbie is very simple, it is just the basic starbie but with a passive buzze
 sorry for the horribly ugly schematic
 
 <img width="746" height="940" alt="image" src="https://github.com/user-attachments/assets/36eb3d0c-086d-4dbf-b765-d8b29b44a763" />
+
+
+*I own the passive buzzer and the DHT11 therefore they are not found in the bill of materials
